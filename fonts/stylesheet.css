@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Bellefair';
+    src: url('Bellefair-Regular.eot');
+    src: local('Bellefair Regular'), local('Bellefair-Regular'),
+        url('Bellefair-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Bellefair-Regular.woff2') format('woff2'),
+        url('Bellefair-Regular.woff') format('woff'),
+        url('Bellefair-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
